@@ -1,7 +1,7 @@
 # 🏢 Nothingan Pri S.A. — Sistema de Gestión Empresarial
 
 <p align="center">
-  <img src="Banner.png" alt="Nothingan Pri S.A. Banner" width="100%">
+  <img src="banner.jpeg" alt="Nothingan Pri S.A. Banner" width="100%">
 </p>
 
 Aplicación web empresarial desarrollada con **Java y Spring Boot** siguiendo el patrón **MVC (Modelo-Vista-Controlador)**. Diseñada para la gestión interna, control de acceso basado en roles y administración de operaciones corporativas.
