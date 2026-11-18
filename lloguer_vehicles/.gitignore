@@ -1,0 +1,9 @@
+# NetBeans
+/Lloguer_Vehicles/nbproject/
+
+# Logs
+*.log
+logs/
+
+# Configuració amb credencials reals (molt important!)
+**/application.properties
